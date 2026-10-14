@@ -1,0 +1,13 @@
+.echec {
+    background-color: red;
+}
+
+table {
+    border-collapse: collapse;  /* fusionne les bordures voisines en un seul trait */
+    border: 2px solid black;    /* contour extérieur du tableau */
+}
+
+th, td {
+    border: 1px solid black;    /* bordure de chaque cellule */
+    padding: 6px 12px;          /* espace à l'intérieur des cellules */
+}
